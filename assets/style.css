@@ -1,0 +1,16 @@
+.app__right__section {
+    min-height: 100vh;
+    max-height: 100vh;
+    overflow-y: scroll;
+    overflow: scroll;
+    padding: 25px;
+    border-left: gray solid 5px;
+}
+
+.user__input__section {
+    min-height: 100vh;
+    max-height: 100vh;
+    overflow-y: scroll;
+    overflow: scroll;
+    padding: 25px;
+}
